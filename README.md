@@ -2,6 +2,17 @@
 
 Projeto focado em implementar navegação em aplicações React utilizando o React Router. Abordamos desde a criação de rotas simples até rotas com parâmetros, Search Params, navegação programática, Layout Routes e uma página de erro 404 personalizada.
 
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img width="100%" alt="image" src="https://github.com/user-attachments/assets/3185276d-6a58-443b-b26e-5411d564f4d4" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e3dbb1b1-e9e1-488d-a31d-bd058312c9b2" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/81aea747-a5a1-4f2e-8367-bb67864e53e7" /> |
+
+</div>
+
+
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
